@@ -1,1 +1,1 @@
-# lab_05
+# Lab 5: Map Description
